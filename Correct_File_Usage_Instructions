@@ -1,0 +1,5 @@
+Place all .dart files in the "lib" folder of project for testing
+
+All images (.png, .jpg ...) should be placed in a folder call "assets". 
+"assets" should be placed in the general project folder, same folder that contains "lib".
+
