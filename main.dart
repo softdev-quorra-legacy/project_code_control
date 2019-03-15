@@ -5,6 +5,9 @@ import 'map.dart';
 import 'profile.dart';
 import 'fields.dart';
 import 'login.dart';
+import 'form.dart';
+import 'forgot_password.dart';
+import 'Prelogin.dart';
 
 
 void main() {
@@ -30,6 +33,9 @@ class PickUp extends StatelessWidget {
         '/home': (context) => Home(),
         '/map': (context) => Map(),
         '/profile': (context) => Profile(),
+        '/form': (context) => Form_(),
+        '/forgot_password': (context) => Forgot(),
+        '/Prelogin': (context) => Pre_(),
         '/field1': (context) => Field1(),
         '/field2': (context) => Field2(),
         '/field3': (context) => Field3(),
