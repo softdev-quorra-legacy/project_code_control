@@ -4,7 +4,11 @@ class Form_ extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
-//      floatingActionButton: new FloatingActionButton(onPressed: null),
+test line for testing
+
+//      floatingActionButton: new 
+
+FloatingActionButton(onPressed: null),
       appBar: new AppBar(
         backgroundColor: new Color(0xFFFFAB40),
         title: new Text('Register your Pick-Up account'),
