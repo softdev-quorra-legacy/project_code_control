@@ -2,6 +2,14 @@ import 'package:flutter/material.dart';
 import 'home.dart';
 import 'map.dart';
 
+class GITTESTING extends statelessWidget
+{
+  this is a fake class to test pushing to my local repository
+  TEST
+}
+ANOTHER EDIT
+
+
 class Profile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
